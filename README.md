@@ -1,2 +1,2 @@
 # SyncSpace
-A real-time collaboration platform for documents
+A real-time collaboration platform for documents with low latency.

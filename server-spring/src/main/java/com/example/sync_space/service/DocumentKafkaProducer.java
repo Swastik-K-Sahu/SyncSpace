@@ -1,3 +1,5 @@
+package com.example.sync_space.service;
+
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
